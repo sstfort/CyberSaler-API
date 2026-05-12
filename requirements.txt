@@ -1,0 +1,17 @@
+flask
+flask-smorest
+python-dotenv
+flask-sqlalchemy
+flask-mysql
+mysql-connector
+flask-jwt-extended
+passlib
+flask-migrate
+gunicorn
+django
+requests
+mysqlclient
+qrcode[pil]
+cryptography
+marshmallow-sqlalchemy
+flask-compress
